@@ -150,6 +150,7 @@ The analysis highlights key customer segments associated with higher churn and p
 ---
 👤 Author :
 Marius Mawaba BODJONA
-Business Analytics & Data Analysis
+
+Business Analytics & Data Analysis,
 AnalystLab Africa – Week 5
 
